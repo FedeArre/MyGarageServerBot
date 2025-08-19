@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-DiscordBotWorker-f1867fd8-ba8c-417c-a30a-1b2800c239f2</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DisCatSharp" Version="10.7.0-nightly-016" />
+    <PackageReference Include="DisCatSharp.Hosting.DependencyInjection" Version="10.7.0-nightly-016" />
+    <PackageReference Include="DisCatSharp.Interactivity" Version="10.7.0-nightly-016" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.7" />
+  </ItemGroup>
+</Project>
