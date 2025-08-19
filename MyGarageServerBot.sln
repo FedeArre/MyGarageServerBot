@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Servic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordBotWorker", "DiscordBotWorker\DiscordBotWorker.csproj", "{0D893F07-4048-4365-B457-6E36F3A82845}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{83C0ED59-0C11-4F7E-9D88-552E1FBAD571}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0D893F07-4048-4365-B457-6E36F3A82845}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D893F07-4048-4365-B457-6E36F3A82845}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D893F07-4048-4365-B457-6E36F3A82845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83C0ED59-0C11-4F7E-9D88-552E1FBAD571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C0ED59-0C11-4F7E-9D88-552E1FBAD571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C0ED59-0C11-4F7E-9D88-552E1FBAD571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C0ED59-0C11-4F7E-9D88-552E1FBAD571}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
