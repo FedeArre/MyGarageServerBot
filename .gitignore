@@ -363,3 +363,4 @@ MigrationBackup/
 FodyWeavers.xsd
 /BotWorkerService/appsettings.Development.json
 /Bot/BotBot.settings.json
+/DiscordBotWorker/appsettings.Development.json
