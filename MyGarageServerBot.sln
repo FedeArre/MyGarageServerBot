@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotWorkerService", "BotWorkerService\BotWorkerService.csproj", "{BFB654CA-499E-4CD7-856D-2BF33F7D0FAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{61998CAC-B289-4B2D-984A-2456A480E6F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BFB654CA-499E-4CD7-856D-2BF33F7D0FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFB654CA-499E-4CD7-856D-2BF33F7D0FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFB654CA-499E-4CD7-856D-2BF33F7D0FAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61998CAC-B289-4B2D-984A-2456A480E6F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61998CAC-B289-4B2D-984A-2456A480E6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61998CAC-B289-4B2D-984A-2456A480E6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61998CAC-B289-4B2D-984A-2456A480E6F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
